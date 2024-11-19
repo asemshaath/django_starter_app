@@ -1,2 +1,2 @@
 # Django Starter App
-This project will follow the officiall Django tutorial at their officiall website.
+This project will follow the official Django tutorial at their official website.
